@@ -12,6 +12,7 @@ Notebook Code and Output:
 
 Looks like it works as intended.
 
+--------------------------------------------------------------
 Put: Edit an item or move it to another folder.
 
 API Listing:
