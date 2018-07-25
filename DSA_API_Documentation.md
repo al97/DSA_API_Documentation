@@ -20,7 +20,7 @@ API Listing:
 
 Notebook Code and Output:
 
-The command I wrote moves an item with ID 5b4ccb0592ca9a001ae72b00 from /rajs/girdertasks/alberttest, to /rajs/girdertasks/alberttest2, and back.
+The command I wrote moves an item with ID 5b4ccb0592ca9a001ae72b00 from /rajs/girdertasks/alberttest, to /rajs/girdertasks/alberttest2, and back. For this particular command, I will include what each folder looks like before and after. Later on, just assume that all commands utilize these two particular test folders that you can test out yourself.
 
 First command moving from alberttest to alberttest2
 ![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shot%202018-07-25%20at%204.18.50%20PM.png)
