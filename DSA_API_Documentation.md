@@ -27,3 +27,14 @@ First command moving from alberttest to alberttest2
 
 Second command moving it back
 ![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shot%202018-07-25%20at%204.19.40%20PM.png)
+
+--------------------------------------------------------------
+Delete: Self-explanatory. Delete by ID.
+
+API Listing:
+![alt text]()
+
+Notebook Code and Output:
+
+Made some files to try deletion in the alberttest folder. Try them out.
+![alt text]()
