@@ -67,10 +67,11 @@ Works as intended.
 Files: Gets the files within the item.
 
 API Listing:
-![alt text]()
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%203.47.30%20PM.png)
 
 Notebook Code and Output:
-![alt text]()
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%203.47.43%20PM.png)
 
 Couldn't find an item that was multi-layered and had files within it, but I think it works as intended.
+
 --------------------------------------------------------------
