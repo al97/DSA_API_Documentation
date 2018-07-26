@@ -32,9 +32,9 @@ Second command moving it back
 Delete: Self-explanatory. Delete by ID.
 
 API Listing:
-![alt text]()
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shot%202018-07-26%20at%2012.14.33%20PM.png)
 
 Notebook Code and Output:
 
 Made some files to try deletion in the alberttest folder. Try them out.
-![alt text]()
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shot%202018-07-26%20at%2012.15.14%20PM.png)
