@@ -36,5 +36,14 @@ API Listing:
 
 Notebook Code and Output:
 
-Made some files to try deletion in the alberttest folder. Try them out.
+Made some files to try deletion in the alberttest folder. Try them out. Works as intended.
 ![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%2012.15.14%20PM.png)
+
+--------------------------------------------------------------
+Copy: Copies the item and reproduces it in that same folder. If you specify a folderId, it'll paste it to that folder.
+
+API Listing:
+
+Notebook Code and Output:
+
+Copied some files in the alberttest folder. Works as intended.
