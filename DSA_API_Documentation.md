@@ -43,14 +43,13 @@ Made some files to try deletion in the alberttest folder. Try them out. Works as
 Copy: Copies the item and reproduces it in that same folder. If you specify a folderId, it'll paste it to that folder.
 
 API Listing:
-![alt text]()
-
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%2012.23.01%20PM.png)
 
 Notebook Code and Output:
 Making a copy in original folder:
-![alt text]()
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%2012.22.52%20PM.png)
 
 Copy-Pasting to a new folder:
-![alt text]()
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%203.39.27%20PM.png)
 
 Copied some files in the alberttest folder. Works as intended.
