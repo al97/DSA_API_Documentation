@@ -43,7 +43,14 @@ Made some files to try deletion in the alberttest folder. Try them out. Works as
 Copy: Copies the item and reproduces it in that same folder. If you specify a folderId, it'll paste it to that folder.
 
 API Listing:
+![alt text]()
+
 
 Notebook Code and Output:
+Making a copy in original folder:
+![alt text]()
+
+Copy-Pasting to a new folder:
+![alt text]()
 
 Copied some files in the alberttest folder. Works as intended.
