@@ -56,10 +56,10 @@ Copied some files in the alberttest folder. Works as intended.
 Download: Downloads the item that you specify.
 
 API Listing:
-![alt text]()
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%203.50.33%20PM.png)
 
 Notebook Code and Output:
-![alt text]()
+![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%203.50.04%20PM.png)
 
 Takes a while. Works as intended on the API listing itself but the python code stalls out.
 
