@@ -61,7 +61,7 @@ API Listing:
 Notebook Code and Output:
 ![alt text](https://github.com/al97/DSA_API_Documentation/blob/master/Screen%20Shots/Screen%20Shot%202018-07-26%20at%203.50.04%20PM.png)
 
-Takes a while. Works as intended on the API listing itself but the python code stalls out.
+Can't get it to download. Works as intended on the API listing itself but the python code stalls out.
 
 --------------------------------------------------------------
 Files: Gets the files within the item.
